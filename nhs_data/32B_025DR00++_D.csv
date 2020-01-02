@@ -1,0 +1,1117 @@
+YEAR,Filename,ORG_TYPE_DESCRIPTION,ORG_CODE,NEW_CODE,ORG_TITLE,SEX_CODE,OBS,DSR,LOWER,UPPER
+2017,32B_025DR00++,"NATIONAL","E&W","K04000001","England and Wales",M,3140,5.27,5.08,5.46
+2017,32B_025DR00++,"NATIONAL","E&W","K04000001","England and Wales",F,4895,4.77,4.64,4.91
+2017,32B_025DR00++,"NATIONAL","E&W","K04000001","England and Wales",P,8035,4.94,4.84,5.05
+2017,32B_025DR00++,"NATIONAL","ENG","E92000001","England",M,2935,5.23,5.04,5.43
+2017,32B_025DR00++,"NATIONAL","ENG","E92000001","England",F,4510,4.67,4.53,4.81
+2017,32B_025DR00++,"NATIONAL","ENG","E92000001","England",P,7445,4.86,4.75,4.98
+2017,32B_025DR00++,"REGIONS","A","E12000001","North East",M,180,6.59,5.63,7.67
+2017,32B_025DR00++,"REGIONS","A","E12000001","North East",F,305,6.67,5.94,7.46
+2017,32B_025DR00++,"REGIONS","A","E12000001","North East",P,490,6.67,6.09,7.29
+2017,32B_025DR00++,"REGIONS","B","E12000002","North West",M,470,6.61,6.01,7.26
+2017,32B_025DR00++,"REGIONS","B","E12000002","North West",F,770,6.24,5.81,6.7
+2017,32B_025DR00++,"REGIONS","B","E12000002","North West",P,1235,6.35,6,6.72
+2017,32B_025DR00++,"REGIONS","D","E12000003","Yorkshire and The Humber",M,145,2.7,2.26,3.18
+2017,32B_025DR00++,"REGIONS","D","E12000003","Yorkshire and The Humber",F,230,2.49,2.17,2.83
+2017,32B_025DR00++,"REGIONS","D","E12000003","Yorkshire and The Humber",P,380,2.56,2.3,2.83
+2017,32B_025DR00++,"REGIONS","E","E12000004","East Midlands",M,270,5.52,4.87,6.24
+2017,32B_025DR00++,"REGIONS","E","E12000004","East Midlands",F,400,4.81,4.35,5.31
+2017,32B_025DR00++,"REGIONS","E","E12000004","East Midlands",P,675,5.06,4.68,5.46
+2017,32B_025DR00++,"REGIONS","F","E12000005","West Midlands",M,485,8.41,7.66,9.22
+2017,32B_025DR00++,"REGIONS","F","E12000005","West Midlands",F,670,6.55,6.06,7.07
+2017,32B_025DR00++,"REGIONS","F","E12000005","West Midlands",P,1155,7.12,6.72,7.55
+2017,32B_025DR00++,"REGIONS","G","E12000006","East of England",M,290,4.28,3.8,4.81
+2017,32B_025DR00++,"REGIONS","G","E12000006","East of England",F,485,4.07,3.71,4.45
+2017,32B_025DR00++,"REGIONS","G","E12000006","East of England",P,775,4.15,3.86,4.45
+2017,32B_025DR00++,"REGIONS","H","E12000007","London",M,210,3.37,2.92,3.87
+2017,32B_025DR00++,"REGIONS","H","E12000007","London",F,285,2.78,2.47,3.13
+2017,32B_025DR00++,"REGIONS","H","E12000007","London",P,495,3.02,2.75,3.29
+2017,32B_025DR00++,"REGIONS","J","E12000008","South East",M,455,4.43,4.03,4.87
+2017,32B_025DR00++,"REGIONS","J","E12000008","South East",F,735,4.14,3.85,4.46
+2017,32B_025DR00++,"REGIONS","J","E12000008","South East",P,1190,4.25,4.01,4.5
+2017,32B_025DR00++,"REGIONS","K","E12000009","South West",M,425,6.07,5.5,6.68
+2017,32B_025DR00++,"REGIONS","K","E12000009","South West",F,630,5.13,4.74,5.55
+2017,32B_025DR00++,"REGIONS","K","E12000009","South West",P,1055,5.47,5.14,5.81
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","01","E12000007","Greater London",M,210,3.37,2.92,3.87
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","01","E12000007","Greater London",F,285,2.78,2.47,3.13
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","01","E12000007","Greater London",P,495,3.02,2.75,3.29
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","02","E11000001","Greater Manchester (Met County)",M,180,7.52,6.44,8.73
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","02","E11000001","Greater Manchester (Met County)",F,320,8.07,7.2,9
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","02","E11000001","Greater Manchester (Met County)",P,500,7.87,7.19,8.59
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","03","E11000002","Merseyside (Met County)",M,100,7.25,5.85,8.87
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","03","E11000002","Merseyside (Met County)",F,155,6.07,5.14,7.11
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","03","E11000002","Merseyside (Met County)",P,255,6.55,5.77,7.42
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","04","E11000003","South Yorkshire (Met County)",M,25,1.66,1.05,2.49
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","04","E11000003","South Yorkshire (Met County)",F,50,2.2,1.64,2.9
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","04","E11000003","South Yorkshire (Met County)",P,75,2.01,1.58,2.52
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","05","E11000007","Tyne and Wear (Met County)",M,85,8.12,6.43,10.1
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","05","E11000007","Tyne and Wear (Met County)",F,140,7.43,6.25,8.77
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","05","E11000007","Tyne and Wear (Met County)",P,230,7.68,6.71,8.75
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","06","E11000005","West Midlands (Met County)",M,225,9.03,7.87,10.32
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","06","E11000005","West Midlands (Met County)",F,340,7.54,6.75,8.39
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","06","E11000005","West Midlands (Met County)",P,565,7.97,7.32,8.66
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","07","E11000006","West Yorkshire (Met County)",M,40,1.97,1.39,2.68
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","07","E11000006","West Yorkshire (Met County)",F,40,1.17,0.83,1.59
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","07","E11000006","West Yorkshire (Met County)",P,80,1.47,1.16,1.82
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","11","E10000002","Buckinghamshire CC",M,40,6.5,4.56,8.97
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","11","E10000002","Buckinghamshire CC",F,30,2.84,1.92,4.06
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","11","E10000002","Buckinghamshire CC",P,70,4.25,3.3,5.39
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","12","E10000003","Cambridgeshire CC",M,35,5.3,3.69,7.38
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","12","E10000003","Cambridgeshire CC",F,50,4.1,3.02,5.43
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","12","E10000003","Cambridgeshire CC",P,85,4.62,3.68,5.71
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","16","E10000006","Cumbria CC",M,55,9,6.69,11.85
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","16","E10000006","Cumbria CC",F,70,6.41,5,8.09
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","16","E10000006","Cumbria CC",P,125,7.1,5.9,8.46
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","17","E10000007","Derbyshire CC",M,45,5.15,3.75,6.89
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","17","E10000007","Derbyshire CC",F,90,6.01,4.83,7.38
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","17","E10000007","Derbyshire CC",P,140,5.71,4.79,6.74
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","18","E10000008","Devon CC",M,85,7.51,5.96,9.33
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","18","E10000008","Devon CC",F,105,5.12,4.17,6.21
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","18","E10000008","Devon CC",P,190,5.89,5.07,6.79
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","19","E10000009","Dorset CC",M,35,4.74,3.3,6.59
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","19","E10000009","Dorset CC",F,55,4.23,3.17,5.53
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","19","E10000009","Dorset CC",P,90,4.46,3.58,5.48
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","21","E10000011","East Sussex CC",M,20,2.06,1.22,3.27
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","21","E10000011","East Sussex CC",F,55,3.62,2.72,4.72
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","21","E10000011","East Sussex CC",P,75,3.05,2.39,3.83
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","22","E10000012","Essex CC",M,65,4,3.06,5.13
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","22","E10000012","Essex CC",F,110,3.83,3.14,4.62
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","22","E10000012","Essex CC",P,175,3.87,3.31,4.49
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","23","E10000013","Gloucestershire CC",M,60,8.57,6.52,11.05
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","23","E10000013","Gloucestershire CC",F,110,8.38,6.89,10.1
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","23","E10000013","Gloucestershire CC",P,170,8.41,7.2,9.77
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","24","E10000014","Hampshire CC",M,65,3.86,2.96,4.93
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","24","E10000014","Hampshire CC",F,135,4.68,3.92,5.55
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","24","E10000014","Hampshire CC",P,200,4.33,3.75,4.97
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","26","E10000015","Hertfordshire CC",M,60,5.21,3.98,6.7
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","26","E10000015","Hertfordshire CC",F,80,3.67,2.9,4.58
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","26","E10000015","Hertfordshire CC",P,140,4.25,3.57,5.02
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","29","E10000016","Kent CC",M,90,5.3,4.25,6.52
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","29","E10000016","Kent CC",F,140,4.57,3.83,5.4
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","29","E10000016","Kent CC",P,230,4.86,4.25,5.53
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","30","E10000017","Lancashire CC",M,60,4.73,3.57,6.14
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","30","E10000017","Lancashire CC",F,75,3.43,2.7,4.29
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","30","E10000017","Lancashire CC",P,135,3.85,3.23,4.55
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","31","E10000018","Leicestershire CC",M,40,5.58,3.96,7.63
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","31","E10000018","Leicestershire CC",F,55,4.21,3.16,5.51
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","31","E10000018","Leicestershire CC",P,95,4.66,3.77,5.7
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","32","E10000019","Lincolnshire CC",M,35,3.75,2.61,5.2
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","32","E10000019","Lincolnshire CC",F,65,4.2,3.24,5.36
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","32","E10000019","Lincolnshire CC",P,100,4.1,3.34,4.98
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","33","E10000020","Norfolk CC",M,35,2.76,1.88,3.9
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","33","E10000020","Norfolk CC",F,70,3.35,2.61,4.23
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","33","E10000020","Norfolk CC",P,105,3.13,2.55,3.79
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","34","E10000021","Northamptonshire CC",M,45,7.15,5.21,9.57
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","34","E10000021","Northamptonshire CC",F,70,6,4.67,7.59
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","34","E10000021","Northamptonshire CC",P,115,6.36,5.26,7.63
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","36","E10000023","North Yorkshire CC",M,35,4.26,2.93,5.97
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","36","E10000023","North Yorkshire CC",F,35,2.58,1.81,3.58
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","36","E10000023","North Yorkshire CC",P,70,3.2,2.5,4.04
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","37","E10000024","Nottinghamshire CC",M,55,6.66,5,8.68
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","37","E10000024","Nottinghamshire CC",F,70,4.76,3.71,6.01
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","37","E10000024","Nottinghamshire CC",P,130,5.38,4.48,6.4
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","38","E10000025","Oxfordshire CC",M,40,5.16,3.65,7.08
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","38","E10000025","Oxfordshire CC",F,40,3.46,2.48,4.69
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","38","E10000025","Oxfordshire CC",P,80,4.16,3.3,5.18
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","40","E10000027","Somerset CC",M,40,5.28,3.78,7.16
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","40","E10000027","Somerset CC",F,50,3.81,2.82,5.03
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","40","E10000027","Somerset CC",P,95,4.35,3.5,5.33
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","41","E10000028","Staffordshire CC",M,85,8.86,7.01,11.04
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","41","E10000028","Staffordshire CC",F,110,6.79,5.58,8.19
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","41","E10000028","Staffordshire CC",P,195,7.43,6.42,8.56
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","42","E10000029","Suffolk CC",M,30,3.36,2.29,4.76
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","42","E10000029","Suffolk CC",F,80,4.65,3.69,5.79
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","42","E10000029","Suffolk CC",P,115,4.1,3.38,4.93
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","43","E10000030","Surrey CC",M,40,3.02,2.17,4.09
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","43","E10000030","Surrey CC",F,65,2.75,2.12,3.51
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","43","E10000030","Surrey CC",P,110,2.84,2.33,3.43
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","44","E10000031","Warwickshire CC",M,60,9.6,7.27,12.42
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","44","E10000031","Warwickshire CC",F,70,6.2,4.82,7.84
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","44","E10000031","Warwickshire CC",P,130,7.32,6.11,8.69
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","45","E10000032","West Sussex CC",M,50,4.34,3.2,5.75
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","45","E10000032","West Sussex CC",F,110,5.19,4.26,6.27
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","45","E10000032","West Sussex CC",P,160,4.86,4.13,5.68
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","47","E10000034","Worcestershire CC",M,50,7.41,5.46,9.82
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","47","E10000034","Worcestershire CC",F,75,6.16,4.84,7.72
+2017,32B_025DR00++,"COUNTIES (boundaries as of April 2009)","47","E10000034","Worcestershire CC",P,130,6.55,5.46,7.79
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AA","E09000001","City of London LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AA","E09000001","City of London LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AA","E09000001","City of London LB",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AB","E09000002","Barking and Dagenham LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AB","E09000002","Barking and Dagenham LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AB","E09000002","Barking and Dagenham LB",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AC","E09000003","Barnet LB",M,10,2.46,1.12,4.68
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AC","E09000003","Barnet LB",F,15,2.38,1.32,3.94
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AC","E09000003","Barnet LB",P,25,2.43,1.56,3.62
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AD","E09000004","Bexley LB",M,10,4.26,1.99,7.92
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AD","E09000004","Bexley LB",F,15,3.69,2.14,5.9
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AD","E09000004","Bexley LB",P,25,3.92,2.58,5.71
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AE","E09000005","Brent LB",M,10,3.99,1.65,7.99
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AE","E09000005","Brent LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AE","E09000005","Brent LB",P,15,2.4,1.3,4.03
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AF","E09000006","Bromley LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AF","E09000006","Bromley LB",F,10,1.6,0.72,3.06
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AF","E09000006","Bromley LB",P,15,1.68,0.96,2.73
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AG","E09000007","Camden LB",M,10,4.18,1.76,8.31
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AG","E09000007","Camden LB",F,10,3.2,1.45,6.08
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AG","E09000007","Camden LB",P,15,3.62,2.11,5.81
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AH","E09000008","Croydon LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AH","E09000008","Croydon LB",F,10,2.4,1.23,4.2
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AH","E09000008","Croydon LB",P,15,2.2,1.28,3.52
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AJ","E09000009","Ealing LB",M,15,4.87,2.63,8.22
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AJ","E09000009","Ealing LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AJ","E09000009","Ealing LB",P,15,2.36,1.34,3.84
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AK","E09000010","Enfield LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AK","E09000010","Enfield LB",F,15,3.02,1.6,5.17
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AK","E09000010","Enfield LB",P,20,2.69,1.62,4.21
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AL","E09000011","Greenwich LB",M,10,5.62,2.6,10.49
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AL","E09000011","Greenwich LB",F,15,5.41,3.08,8.81
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AL","E09000011","Greenwich LB",P,25,5.6,3.65,8.21
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AM","E09000012","Hackney LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AM","E09000012","Hackney LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AM","E09000012","Hackney LB",P,15,4.84,2.57,8.28
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AN","E09000013","Hammersmith and Fulham LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AN","E09000013","Hammersmith and Fulham LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AN","E09000013","Hammersmith and Fulham LB",P,10,3.96,1.89,7.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AP","E09000014","Haringey LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AP","E09000014","Haringey LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AP","E09000014","Haringey LB",P,10,2.61,1.21,4.87
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AQ","E09000015","Harrow LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AQ","E09000015","Harrow LB",F,15,4.41,2.5,7.19
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AQ","E09000015","Harrow LB",P,25,3.72,2.35,5.59
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AR","E09000016","Havering LB",M,10,2.94,1.23,5.84
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AR","E09000016","Havering LB",F,10,1.48,0.63,2.92
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AR","E09000016","Havering LB",P,15,2.03,1.15,3.31
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AS","E09000017","Hillingdon LB",M,10,4.91,2.49,8.63
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AS","E09000017","Hillingdon LB",F,15,3.75,2.04,6.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AS","E09000017","Hillingdon LB",P,25,4.1,2.67,6.02
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AT","E09000018","Hounslow LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AT","E09000018","Hounslow LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AT","E09000018","Hounslow LB",P,10,2.25,1.07,4.14
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AU","E09000019","Islington LB",M,10,8.13,3.62,15.58
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AU","E09000019","Islington LB",F,10,4.37,1.88,8.62
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AU","E09000019","Islington LB",P,15,5.75,3.33,9.22
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AW","E09000020","Kensington and Chelsea LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AW","E09000020","Kensington and Chelsea LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AW","E09000020","Kensington and Chelsea LB",P,10,2.57,1.17,4.88
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AX","E09000021","Kingston upon Thames LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AX","E09000021","Kingston upon Thames LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AX","E09000021","Kingston upon Thames LB",P,10,1.99,0.84,3.93
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AY","E09000022","Lambeth LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AY","E09000022","Lambeth LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AY","E09000022","Lambeth LB",P,10,2.43,1.11,4.62
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AZ","E09000023","Lewisham LB",M,10,5.91,2.56,11.44
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AZ","E09000023","Lewisham LB",F,15,5.28,2.92,8.75
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00AZ","E09000023","Lewisham LB",P,25,5.45,3.47,8.15
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BA","E09000024","Merton LB",M,10,6.29,2.92,11.72
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BA","E09000024","Merton LB",F,10,3.01,1.29,5.95
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BA","E09000024","Merton LB",P,20,4.27,2.53,6.76
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BB","E09000025","Newham LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BB","E09000025","Newham LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BB","E09000025","Newham LB",P,10,2.48,1.04,4.93
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BC","E09000026","Redbridge LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BC","E09000026","Redbridge LB",F,10,2,0.86,3.96
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BC","E09000026","Redbridge LB",P,15,2.16,1.15,3.69
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BD","E09000027","Richmond upon Thames LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BD","E09000027","Richmond upon Thames LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BD","E09000027","Richmond upon Thames LB",P,10,2.07,0.99,3.82
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BE","E09000028","Southwark LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BE","E09000028","Southwark LB",F,10,3.31,1.41,6.53
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BE","E09000028","Southwark LB",P,15,3.85,2.15,6.36
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BF","E09000029","Sutton LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BF","E09000029","Sutton LB",F,10,2.56,1.09,5.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BF","E09000029","Sutton LB",P,10,1.82,0.83,3.46
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BG","E09000030","Tower Hamlets LB",M,10,10.06,4.86,18.24
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BG","E09000030","Tower Hamlets LB",F,15,7.81,4.13,13.38
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BG","E09000030","Tower Hamlets LB",P,25,8.6,5.48,12.84
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BH","E09000031","Waltham Forest LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BH","E09000031","Waltham Forest LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BH","E09000031","Waltham Forest LB",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BJ","E09000032","Wandsworth LB",M,10,4.16,1.78,8.22
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BJ","E09000032","Wandsworth LB",F,10,4.15,2.13,7.26
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BJ","E09000032","Wandsworth LB",P,20,4.4,2.68,6.79
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BK","E09000033","Westminster LB",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BK","E09000033","Westminster LB",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BK","E09000033","Westminster LB",P,10,2.67,1.37,4.67
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BL","E08000001","Bolton MCD",M,20,7.3,4.3,11.52
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BL","E08000001","Bolton MCD",F,20,4.41,2.61,6.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BL","E08000001","Bolton MCD",P,35,5.38,3.78,7.42
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BM","E08000002","Bury MCD",M,15,7.75,4.15,13.11
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BM","E08000002","Bury MCD",F,20,5.98,3.54,9.47
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BM","E08000002","Bury MCD",P,30,6.57,4.49,9.28
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BN","E08000003","Manchester MCD",M,35,13.06,9.01,18.27
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BN","E08000003","Manchester MCD",F,55,11.66,8.79,15.16
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BN","E08000003","Manchester MCD",P,90,12,9.65,14.74
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BP","E08000004","Oldham MCD",M,10,6.03,2.83,11.18
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BP","E08000004","Oldham MCD",F,10,3.61,1.86,6.31
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BP","E08000004","Oldham MCD",P,20,4.34,2.72,6.58
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BQ","E08000005","Rochdale MCD",M,10,5.16,2.52,9.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BQ","E08000005","Rochdale MCD",F,25,8.3,5.41,12.18
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BQ","E08000005","Rochdale MCD",P,35,7.3,5.13,10.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BR","E08000006","Salford MCD",M,10,3.85,1.62,7.63
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BR","E08000006","Salford MCD",F,20,6.3,3.87,9.66
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BR","E08000006","Salford MCD",P,30,5.29,3.54,7.6
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BS","E08000007","Stockport MCD",M,30,8.27,5.47,11.96
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BS","E08000007","Stockport MCD",F,55,9.35,6.99,12.24
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BS","E08000007","Stockport MCD",P,80,9.13,7.25,11.34
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BT","E08000008","Tameside MCD",M,25,11.75,7.36,17.71
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BT","E08000008","Tameside MCD",F,45,13.98,10.27,18.6
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BT","E08000008","Tameside MCD",P,70,13.43,10.48,16.96
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BU","E08000009","Trafford MCD",M,20,8.05,4.93,12.38
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BU","E08000009","Trafford MCD",F,35,7.75,5.31,10.91
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BU","E08000009","Trafford MCD",P,55,8,6,10.46
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BW","E08000010","Wigan MCD",M,10,3.56,1.72,6.45
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BW","E08000010","Wigan MCD",F,35,7.51,5.23,10.45
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BW","E08000010","Wigan MCD",P,45,5.92,4.32,7.91
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BX","E08000011","Knowsley MCD",M,10,8.2,3.94,14.77
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BX","E08000011","Knowsley MCD",F,15,5.29,2.79,9.08
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BX","E08000011","Knowsley MCD",P,25,6.48,4.14,9.63
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BY","E08000012","Liverpool MCD",M,30,6.65,4.33,9.73
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BY","E08000012","Liverpool MCD",F,50,7.96,5.93,10.45
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BY","E08000012","Liverpool MCD",P,80,7.71,6.09,9.61
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BZ","E08000013","St. Helens MCD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BZ","E08000013","St. Helens MCD",F,15,4.33,2.3,7.41
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00BZ","E08000013","St. Helens MCD",P,20,4.37,2.64,6.78
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CA","E08000014","Sefton MCD",M,30,9.52,6.34,13.7
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CA","E08000014","Sefton MCD",F,35,5.12,3.54,7.17
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CA","E08000014","Sefton MCD",P,65,6.56,5.05,8.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CB","E08000015","Wirral MCD",M,25,6.46,4.11,9.63
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CB","E08000015","Wirral MCD",F,40,6.13,4.39,8.34
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CB","E08000015","Wirral MCD",P,65,6.33,4.89,8.06
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CC","E08000016","Barnsley MCD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CC","E08000016","Barnsley MCD",F,10,1.95,0.84,3.84
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CC","E08000016","Barnsley MCD",P,10,1.74,0.89,3.04
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CE","E08000017","Doncaster MCD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CE","E08000017","Doncaster MCD",F,10,1.87,0.89,3.44
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CE","E08000017","Doncaster MCD",P,10,1.15,0.54,2.11
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CF","E08000018","Rotherham MCD",M,10,3.83,1.65,7.42
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CF","E08000018","Rotherham MCD",F,20,3.91,2.31,6.18
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CF","E08000018","Rotherham MCD",P,25,3.91,2.57,5.7
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CG","E08000019","Sheffield MCD",M,10,1.79,0.88,3.21
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CG","E08000019","Sheffield MCD",F,15,1.61,0.9,2.66
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CG","E08000019","Sheffield MCD",P,25,1.71,1.11,2.51
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CH","E08000037","Gateshead MCD",M,20,7.72,4.44,12.4
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CH","E08000037","Gateshead MCD",F,20,5.69,3.47,8.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CH","E08000037","Gateshead MCD",P,40,6.7,4.72,9.21
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CJ","E08000021","Newcastle upon Tyne MCD",M,15,5.58,2.93,9.6
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CJ","E08000021","Newcastle upon Tyne MCD",F,30,6.4,4.24,9.27
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CJ","E08000021","Newcastle upon Tyne MCD",P,40,6.05,4.34,8.22
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CK","E08000022","North Tyneside MCD",M,20,9.19,5.4,14.54
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CK","E08000022","North Tyneside MCD",F,50,12.51,9.23,16.56
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CK","E08000022","North Tyneside MCD",P,70,11.26,8.73,14.29
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CL","E08000023","South Tyneside MCD",M,10,8.1,3.72,15.14
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CL","E08000023","South Tyneside MCD",F,15,5.1,2.91,8.28
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CL","E08000023","South Tyneside MCD",P,25,5.75,3.75,8.44
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CM","E08000024","Sunderland MCD",M,25,9.89,6.23,14.76
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CM","E08000024","Sunderland MCD",F,30,6.69,4.46,9.63
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CM","E08000024","Sunderland MCD",P,55,7.89,5.92,10.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CN","E08000025","Birmingham MCD",M,65,7.48,5.75,9.57
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CN","E08000025","Birmingham MCD",F,95,6.3,5.07,7.73
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CN","E08000025","Birmingham MCD",P,160,6.69,5.68,7.81
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CQ","E08000026","Coventry MCD",M,15,5.81,3.35,9.36
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CQ","E08000026","Coventry MCD",F,40,8.1,5.83,10.96
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CQ","E08000026","Coventry MCD",P,60,7.22,5.5,9.32
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CR","E08000027","Dudley MCD",M,40,12.77,9,17.52
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CR","E08000027","Dudley MCD",F,50,8.17,6.01,10.85
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CR","E08000027","Dudley MCD",P,90,9.79,7.85,12.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CS","E08000028","Sandwell MCD",M,25,9.79,6.13,14.76
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CS","E08000028","Sandwell MCD",F,50,10.21,7.54,13.53
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CS","E08000028","Sandwell MCD",P,75,9.56,7.49,12.03
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CT","E08000029","Solihull MCD",M,15,5.81,3.28,9.49
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CT","E08000029","Solihull MCD",F,25,4.74,2.99,7.13
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CT","E08000029","Solihull MCD",P,40,5.11,3.63,7
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CU","E08000030","Walsall MCD",M,35,13.83,9.4,19.58
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CU","E08000030","Walsall MCD",F,40,7.97,5.63,10.95
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CU","E08000030","Walsall MCD",P,70,9.62,7.5,12.16
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CW","E08000031","Wolverhampton MCD",M,30,11.39,7.6,16.37
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CW","E08000031","Wolverhampton MCD",F,45,10.04,7.31,13.46
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CW","E08000031","Wolverhampton MCD",P,75,10.62,8.34,13.33
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CX","E08000032","Bradford MCD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CX","E08000032","Bradford MCD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CX","E08000032","Bradford MCD",P,10,0.75,0.34,1.42
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CY","E08000033","Calderdale MCD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CY","E08000033","Calderdale MCD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CY","E08000033","Calderdale MCD",P,10,1.45,0.62,2.86
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CZ","E08000034","Kirklees MCD",M,10,2.35,1,4.57
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CZ","E08000034","Kirklees MCD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00CZ","E08000034","Kirklees MCD",P,15,1.35,0.73,2.27
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00DA","E08000035","Leeds MCD",M,15,2.48,1.4,4.02
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00DA","E08000035","Leeds MCD",F,15,1.49,0.87,2.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00DA","E08000035","Leeds MCD",P,35,1.85,1.28,2.6
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00DB","E08000036","Wakefield MCD",M,10,2.17,0.88,4.36
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00DB","E08000036","Wakefield MCD",F,10,1.68,0.76,3.19
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00DB","E08000036","Wakefield MCD",P,15,1.81,1.05,2.91
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EB","E06000001","Hartlepool UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EB","E06000001","Hartlepool UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EB","E06000001","Hartlepool UA",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EC","E06000002","Middlesbrough UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EC","E06000002","Middlesbrough UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EC","E06000002","Middlesbrough UA",P,10,3.12,1.47,5.77
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EE","E06000003","Redcar and Cleveland UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EE","E06000003","Redcar and Cleveland UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EE","E06000003","Redcar and Cleveland UA",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EF","E06000004","Stockton-on-Tees UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EF","E06000004","Stockton-on-Tees UA",F,10,3.24,1.55,5.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EF","E06000004","Stockton-on-Tees UA",P,15,3.06,1.7,5.06
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EH","E06000005","Darlington UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EH","E06000005","Darlington UA",F,10,5.42,2.68,9.75
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EH","E06000005","Darlington UA",P,15,5.24,3.05,8.4
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EJ","E06000047","County Durham UA",M,35,5.99,4.07,8.48
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EJ","E06000047","County Durham UA",F,65,7.31,5.64,9.32
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EJ","E06000047","County Durham UA",P,100,6.87,5.57,8.38
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EM","E06000057","Northumberland UA",M,35,8.94,6.19,12.47
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EM","E06000057","Northumberland UA",F,70,11.04,8.63,13.91
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EM","E06000057","Northumberland UA",P,110,10.06,8.24,12.15
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EQ","E06000049","Cheshire East UA",M,25,5.19,3.36,7.64
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EQ","E06000049","Cheshire East UA",F,50,5.77,4.26,7.64
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EQ","E06000049","Cheshire East UA",P,75,5.62,4.42,7.05
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00ET","E06000006","Halton UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00ET","E06000006","Halton UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00ET","E06000006","Halton UA",P,15,5.05,2.66,8.67
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EU","E06000007","Warrington UA",M,10,6.62,3.19,12.03
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EU","E06000007","Warrington UA",F,15,5.21,3.03,8.34
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EU","E06000007","Warrington UA",P,30,5.51,3.65,7.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EW","E06000050","Cheshire West and Chester UA",M,15,4.3,2.4,7.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EW","E06000050","Cheshire West and Chester UA",F,45,6.66,4.83,8.95
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EW","E06000050","Cheshire West and Chester UA",P,60,5.79,4.41,7.45
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EX","E06000008","Blackburn with Darwen UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EX","E06000008","Blackburn with Darwen UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EX","E06000008","Blackburn with Darwen UA",P,15,4.7,2.53,7.94
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EY","E06000009","Blackpool UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EY","E06000009","Blackpool UA",F,25,8.43,5.39,12.56
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00EY","E06000009","Blackpool UA",P,30,6.83,4.6,9.75
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FA","E06000010","Kingston upon Hull, City of UA",M,10,5.92,2.76,11
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FA","E06000010","Kingston upon Hull, City of UA",F,20,5.65,3.39,8.84
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FA","E06000010","Kingston upon Hull, City of UA",P,30,5.46,3.63,7.87
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FB","E06000011","East Riding of Yorkshire UA",M,10,2.67,1.33,4.74
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FB","E06000011","East Riding of Yorkshire UA",F,30,3.73,2.47,5.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FB","E06000011","East Riding of Yorkshire UA",P,40,3.35,2.39,4.57
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FC","E06000012","North East Lincolnshire UA",M,10,5.4,2.37,10.42
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FC","E06000012","North East Lincolnshire UA",F,25,8.06,5.21,11.92
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FC","E06000012","North East Lincolnshire UA",P,35,7.15,4.94,10.01
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FD","E06000013","North Lincolnshire UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FD","E06000013","North Lincolnshire UA",F,15,5.47,3.16,8.79
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FD","E06000013","North Lincolnshire UA",P,25,4.84,3.09,7.2
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FF","E06000014","York UA",M,10,3.54,1.49,7.02
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FF","E06000014","York UA",F,15,3.79,2.11,6.27
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FF","E06000014","York UA",P,25,3.69,2.34,5.54
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FK","E06000015","Derby UA",M,10,3.24,1.35,6.46
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FK","E06000015","Derby UA",F,15,3.93,2.26,6.34
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FK","E06000015","Derby UA",P,25,3.57,2.3,5.28
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FN","E06000016","Leicester UA",M,20,7.9,4.75,12.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FN","E06000016","Leicester UA",F,15,3.29,1.79,5.55
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FN","E06000016","Leicester UA",P,35,5.13,3.54,7.18
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FP","E06000017","Rutland UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FP","E06000017","Rutland UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FP","E06000017","Rutland UA",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FY","E06000018","Nottingham UA",M,10,4.59,2.23,8.29
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FY","E06000018","Nottingham UA",F,15,4.37,2.46,7.15
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00FY","E06000018","Nottingham UA",P,25,4.4,2.89,6.41
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GA","E06000019","Herefordshire, County of UA",M,15,6.29,3.43,10.51
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GA","E06000019","Herefordshire, County of UA",F,15,3.78,2.19,6.06
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GA","E06000019","Herefordshire, County of UA",P,30,4.71,3.21,6.65
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GF","E06000020","Telford and Wrekin UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GF","E06000020","Telford and Wrekin UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GF","E06000020","Telford and Wrekin UA",P,10,3.18,1.63,5.57
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GG","E06000051","Shropshire UA",M,15,3.42,1.82,5.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GG","E06000051","Shropshire UA",F,10,1.38,0.65,2.55
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GG","E06000051","Shropshire UA",P,25,2.13,1.36,3.16
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GL","E06000021","Stoke-on-Trent UA",M,30,14.03,9.17,20.43
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GL","E06000021","Stoke-on-Trent UA",F,40,10.75,7.67,14.67
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00GL","E06000021","Stoke-on-Trent UA",P,70,11.69,9.09,14.81
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HA","E06000022","Bath and North East Somerset UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HA","E06000022","Bath and North East Somerset UA",F,15,3.25,1.73,5.56
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HA","E06000022","Bath and North East Somerset UA",P,20,3.07,1.85,4.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HB","E06000023","Bristol, City of UA",M,25,7.17,4.69,10.49
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HB","E06000023","Bristol, City of UA",F,40,5.48,3.86,7.55
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HB","E06000023","Bristol, City of UA",P,65,6.24,4.81,7.96
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HC","E06000024","North Somerset UA",M,20,7.36,4.52,11.31
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HC","E06000024","North Somerset UA",F,35,6.5,4.48,9.11
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HC","E06000024","North Somerset UA",P,55,6.69,5.04,8.71
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HD","E06000025","South Gloucestershire UA",M,25,7.89,4.96,11.87
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HD","E06000025","South Gloucestershire UA",F,20,4.07,2.48,6.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HD","E06000025","South Gloucestershire UA",P,45,5.6,4.06,7.52
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HE & 00HF","E06000052 & E06000053","Cornwall UA & Isles of Scilly UA",M,70,9.16,7.06,11.68
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HE & 00HF","E06000052 & E06000053","Cornwall UA & Isles of Scilly UA",F,100,7.98,6.49,9.72
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HE & 00HF","E06000052 & E06000053","Cornwall UA & Isles of Scilly UA",P,170,8.38,7.16,9.76
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HG","E06000026","Plymouth UA",M,15,4.62,2.44,7.94
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HG","E06000026","Plymouth UA",F,20,4.55,2.81,6.96
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HG","E06000026","Plymouth UA",P,35,4.66,3.22,6.51
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HH","E06000027","Torbay UA",M,10,4.64,2.2,8.58
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HH","E06000027","Torbay UA",F,25,6.29,4,9.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HH","E06000027","Torbay UA",P,35,5.79,4.01,8.09
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HN","E06000028","Bournemouth UA",M,10,4.1,1.96,7.55
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HN","E06000028","Bournemouth UA",F,20,4.1,2.42,6.48
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HN","E06000028","Bournemouth UA",P,30,4.04,2.69,5.82
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HP","E06000029","Poole UA",M,15,6.1,3.22,10.47
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HP","E06000029","Poole UA",F,20,5.08,2.97,8.08
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HP","E06000029","Poole UA",P,30,5.47,3.7,7.78
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HX","E06000030","Swindon UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HX","E06000030","Swindon UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HX","E06000030","Swindon UA",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HY","E06000054","Wiltshire UA",M,10,1.57,0.7,3.02
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HY","E06000054","Wiltshire UA",F,20,2.14,1.32,3.29
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00HY","E06000054","Wiltshire UA",P,30,1.88,1.27,2.69
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00JA","E06000031","Peterborough UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00JA","E06000031","Peterborough UA",F,15,4.86,2.56,8.34
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00JA","E06000031","Peterborough UA",P,20,4.44,2.67,6.95
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KA","E06000032","Luton UA",M,15,9.14,5.12,14.99
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KA","E06000032","Luton UA",F,15,6.83,3.95,10.96
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KA","E06000032","Luton UA",P,35,7.76,5.32,10.91
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KB","E06000055","Bedford UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KB","E06000055","Bedford UA",F,20,7.19,4.5,10.88
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KB","E06000055","Bedford UA",P,30,6.17,4.13,8.87
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KC","E06000056","Central Bedfordshire UA",M,20,7.34,4.4,11.45
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KC","E06000056","Central Bedfordshire UA",F,20,5.24,3.24,8.02
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KC","E06000056","Central Bedfordshire UA",P,40,6.11,4.37,8.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KF","E06000033","Southend-on-Sea UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KF","E06000033","Southend-on-Sea UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KF","E06000033","Southend-on-Sea UA",P,10,1.99,1.02,3.48
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KG","E06000034","Thurrock UA",M,10,6.89,2.84,13.81
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KG","E06000034","Thurrock UA",F,15,7.35,4.09,12.14
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00KG","E06000034","Thurrock UA",P,25,7.09,4.48,10.66
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00LC","E06000035","Medway UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00LC","E06000035","Medway UA",F,10,3.27,1.68,5.72
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00LC","E06000035","Medway UA",P,20,3.01,1.77,4.76
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MA","E06000036","Bracknell Forest UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MA","E06000036","Bracknell Forest UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MA","E06000036","Bracknell Forest UA",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MB","E06000037","West Berkshire UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MB","E06000037","West Berkshire UA",F,15,5.4,2.95,9.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MB","E06000037","West Berkshire UA",P,20,4.37,2.59,6.92
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MC","E06000038","Reading UA",M,10,8.95,4.38,16.13
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MC","E06000038","Reading UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MC","E06000038","Reading UA",P,20,5.25,3.1,8.32
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MD","E06000039","Slough UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MD","E06000039","Slough UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MD","E06000039","Slough UA",P,10,5.62,2.89,9.83
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00ME","E06000040","Windsor and Maidenhead UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00ME","E06000040","Windsor and Maidenhead UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00ME","E06000040","Windsor and Maidenhead UA",P,15,2.8,1.48,4.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MF","E06000041","Wokingham UA",M,10,6.44,2.96,12.06
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MF","E06000041","Wokingham UA",F,10,3.05,1.3,6.03
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MF","E06000041","Wokingham UA",P,20,4.24,2.51,6.7
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MG","E06000042","Milton Keynes UA",M,20,10.16,5.95,16.08
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MG","E06000042","Milton Keynes UA",F,30,9.6,6.41,13.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MG","E06000042","Milton Keynes UA",P,50,9.89,7.28,13.13
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00ML","E06000043","Brighton and Hove UA",M,20,8.8,5.48,13.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00ML","E06000043","Brighton and Hove UA",F,20,4.73,2.88,7.29
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00ML","E06000043","Brighton and Hove UA",P,45,6.32,4.57,8.53
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MR","E06000044","Portsmouth UA",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MR","E06000044","Portsmouth UA",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MR","E06000044","Portsmouth UA",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MS","E06000045","Southampton UA",M,15,6.87,3.61,11.81
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MS","E06000045","Southampton UA",F,20,5.27,3.16,8.25
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MS","E06000045","Southampton UA",P,30,5.8,3.96,8.19
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MW","E06000046","Isle of Wight UA",M,15,6.7,3.72,11.1
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MW","E06000046","Isle of Wight UA",F,20,5.01,3.03,7.77
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","00MW","E06000046","Isle of Wight UA",P,35,5.76,4.01,8.02
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UB","E07000004","Aylesbury Vale CD",M,15,8.72,4.74,14.58
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UB","E07000004","Aylesbury Vale CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UB","E07000004","Aylesbury Vale CD",P,20,4.63,2.9,7.01
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UC","E07000005","Chiltern CD",M,10,5.81,2.47,11.49
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UC","E07000005","Chiltern CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UC","E07000005","Chiltern CD",P,15,3.88,2.12,6.51
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UE","E07000006","South Bucks CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UE","E07000006","South Bucks CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UE","E07000006","South Bucks CD",P,10,4.04,2,7.26
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UF","E07000007","Wycombe CD",M,10,5.01,2.23,9.61
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UF","E07000007","Wycombe CD",F,10,3.85,1.99,6.72
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","11UF","E07000007","Wycombe CD",P,20,4.27,2.64,6.54
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UB","E07000008","Cambridge CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UB","E07000008","Cambridge CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UB","E07000008","Cambridge CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UC","E07000009","East Cambridgeshire CD",M,10,9.85,4.34,18.97
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UC","E07000009","East Cambridgeshire CD",F,10,6.82,3.37,12.26
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UC","E07000009","East Cambridgeshire CD",P,20,8.01,4.88,12.38
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UD","E07000010","Fenland CD",M,10,7.72,3.42,14.81
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UD","E07000010","Fenland CD",F,10,5.44,2.79,9.53
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UD","E07000010","Fenland CD",P,20,6.16,3.8,9.43
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UE","E07000011","Huntingdonshire CD",M,10,6.24,3.06,11.26
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UE","E07000011","Huntingdonshire CD",F,15,4.08,2.17,6.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UE","E07000011","Huntingdonshire CD",P,25,4.99,3.2,7.43
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UG","E07000012","South Cambridgeshire CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UG","E07000012","South Cambridgeshire CD",F,10,3.16,1.42,6.02
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","12UG","E07000012","South Cambridgeshire CD",P,15,2.86,1.52,4.9
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UB","E07000026","Allerdale CD",M,20,16.45,9.73,25.92
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UB","E07000026","Allerdale CD",F,20,8.71,5.14,13.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UB","E07000026","Allerdale CD",P,35,10.89,7.66,15.02
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UC","E07000027","Barrow-in-Furness CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UC","E07000027","Barrow-in-Furness CD",F,10,9.7,5,16.95
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UC","E07000027","Barrow-in-Furness CD",P,15,8.63,5.01,13.84
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UD","E07000028","Carlisle CD",M,10,9.69,4.92,17.05
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UD","E07000028","Carlisle CD",F,10,5.22,2.69,9.12
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UD","E07000028","Carlisle CD",P,25,6.76,4.32,10.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UE","E07000029","Copeland CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UE","E07000029","Copeland CD",F,10,7.13,3.24,13.56
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UE","E07000029","Copeland CD",P,15,7.63,4.24,12.62
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UF","E07000030","Eden CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UF","E07000030","Eden CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UF","E07000030","Eden CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UG","E07000031","South Lakeland CD",M,10,5.91,2.65,11.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UG","E07000031","South Lakeland CD",F,15,4.89,2.74,8.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","16UG","E07000031","South Lakeland CD",P,25,5.35,3.42,7.97
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UB","E07000032","Amber Valley CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UB","E07000032","Amber Valley CD",F,10,4.28,2.13,7.66
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UB","E07000032","Amber Valley CD",P,15,3.83,2.14,6.33
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UC","E07000033","Bolsover CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UC","E07000033","Bolsover CD",F,10,7.75,3.85,13.88
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UC","E07000033","Bolsover CD",P,15,5.99,3.18,10.26
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UD","E07000034","Chesterfield CD",M,10,8.05,3.77,14.94
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UD","E07000034","Chesterfield CD",F,15,7.88,4.57,12.66
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UD","E07000034","Chesterfield CD",P,25,8.19,5.39,11.92
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UF","E07000035","Derbyshire Dales CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UF","E07000035","Derbyshire Dales CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UF","E07000035","Derbyshire Dales CD",P,10,3.69,1.76,6.79
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UG","E07000036","Erewash CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UG","E07000036","Erewash CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UG","E07000036","Erewash CD",P,10,2.19,0.94,4.31
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UH","E07000037","High Peak CD",M,10,8.21,3.37,16.47
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UH","E07000037","High Peak CD",F,15,9.35,5.21,15.45
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UH","E07000037","High Peak CD",P,25,8.65,5.47,12.99
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UJ","E07000038","North East Derbyshire CD",M,15,9.58,5,16.54
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UJ","E07000038","North East Derbyshire CD",F,15,8.42,4.89,13.49
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UJ","E07000038","North East Derbyshire CD",P,30,8.88,5.97,12.69
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UK","E07000039","South Derbyshire CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UK","E07000039","South Derbyshire CD",F,10,6.1,2.76,11.62
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","17UK","E07000039","South Derbyshire CD",P,10,5.02,2.55,8.83
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UB","E07000040","East Devon CD",M,20,7.12,4.28,11.14
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UB","E07000040","East Devon CD",F,25,4.82,3.01,7.29
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UB","E07000040","East Devon CD",P,40,5.5,3.96,7.45
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UC","E07000041","Exeter CD",M,15,13.01,7.04,21.93
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UC","E07000041","Exeter CD",F,15,5.52,2.95,9.36
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UC","E07000041","Exeter CD",P,30,7.28,4.82,10.54
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UD","E07000042","Mid Devon CD",M,10,7.95,3.58,15.18
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UD","E07000042","Mid Devon CD",F,10,4.16,1.79,8.19
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UD","E07000042","Mid Devon CD",P,15,5.79,3.36,9.28
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UE","E07000043","North Devon CD",M,10,8.72,4.39,15.41
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UE","E07000043","North Devon CD",F,20,9.15,5.62,14.06
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UE","E07000043","North Devon CD",P,35,8.82,6.06,12.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UG","E07000044","South Hams CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UG","E07000044","South Hams CD",F,10,4.38,1.98,8.35
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UG","E07000044","South Hams CD",P,10,3.57,1.84,6.24
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UH","E07000045","Teignbridge CD",M,15,6.82,3.59,11.73
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UH","E07000045","Teignbridge CD",F,15,3.46,1.88,5.83
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UH","E07000045","Teignbridge CD",P,25,4.74,3.11,6.9
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UK","E07000046","Torridge CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UK","E07000046","Torridge CD",F,15,7.99,4.24,13.67
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UK","E07000046","Torridge CD",P,20,7.89,4.81,12.2
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UL","E07000047","West Devon CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UL","E07000047","West Devon CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","18UL","E07000047","West Devon CD",P,10,4.02,1.83,7.63
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UC","E07000048","Christchurch CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UC","E07000048","Christchurch CD",F,10,6.84,3.34,12.24
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UC","E07000048","Christchurch CD",P,20,6.55,3.88,10.31
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UD","E07000049","East Dorset CD",M,10,4.29,1.82,8.51
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UD","E07000049","East Dorset CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UD","E07000049","East Dorset CD",P,15,2.93,1.59,4.93
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UE","E07000050","North Dorset CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UE","E07000050","North Dorset CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UE","E07000050","North Dorset CD",P,10,3.15,1.43,5.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UG","E07000051","Purbeck CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UG","E07000051","Purbeck CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UG","E07000051","Purbeck CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UH","E07000052","West Dorset CD",M,10,5.59,2.75,10.05
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UH","E07000052","West Dorset CD",F,15,4.56,2.55,7.53
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UH","E07000052","West Dorset CD",P,25,5.02,3.27,7.36
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UJ","E07000053","Weymouth and Portland CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UJ","E07000053","Weymouth and Portland CD",F,10,6.37,3.04,11.73
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","19UJ","E07000053","Weymouth and Portland CD",P,15,6.05,3.37,10
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UC","E07000061","Eastbourne CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UC","E07000061","Eastbourne CD",F,10,3.26,1.68,5.71
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UC","E07000061","Eastbourne CD",P,15,3.12,1.82,5.01
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UD","E07000062","Hastings CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UD","E07000062","Hastings CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UD","E07000062","Hastings CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UF","E07000063","Lewes CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UF","E07000063","Lewes CD",F,10,3.99,2.02,7.04
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UF","E07000063","Lewes CD",P,20,3.83,2.26,6.06
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UG","E07000064","Rother CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UG","E07000064","Rother CD",F,10,2.54,1.04,5.09
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UG","E07000064","Rother CD",P,10,2.14,1.06,3.85
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UH","E07000065","Wealden CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UH","E07000065","Wealden CD",F,25,5.59,3.5,8.44
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","21UH","E07000065","Wealden CD",P,25,4.03,2.63,5.92
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UB","E07000066","Basildon CD",M,20,11.16,6.45,17.87
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UB","E07000066","Basildon CD",F,15,4.83,2.62,8.13
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UB","E07000066","Basildon CD",P,30,6.93,4.73,9.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UC","E07000067","Braintree CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UC","E07000067","Braintree CD",F,10,3.85,1.98,6.73
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UC","E07000067","Braintree CD",P,15,3.74,2.17,5.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UD","E07000068","Brentwood CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UD","E07000068","Brentwood CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UD","E07000068","Brentwood CD",P,10,3.88,1.92,6.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UE","E07000069","Castle Point CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UE","E07000069","Castle Point CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UE","E07000069","Castle Point CD",P,10,3.26,1.48,6.18
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UF","E07000070","Chelmsford CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UF","E07000070","Chelmsford CD",F,10,2.8,1.27,5.31
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UF","E07000070","Chelmsford CD",P,15,2.73,1.49,4.59
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UG","E07000071","Colchester CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UG","E07000071","Colchester CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UG","E07000071","Colchester CD",P,10,1.62,0.7,3.2
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UH","E07000072","Epping Forest CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UH","E07000072","Epping Forest CD",F,10,4.28,2.18,7.53
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UH","E07000072","Epping Forest CD",P,15,3.77,2.14,6.13
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UJ","E07000073","Harlow CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UJ","E07000073","Harlow CD",F,10,5.98,2.72,11.36
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UJ","E07000073","Harlow CD",P,10,5.16,2.64,9.04
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UK","E07000074","Maldon CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UK","E07000074","Maldon CD",F,10,7.65,3.48,14.56
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UK","E07000074","Maldon CD",P,15,6.01,3.19,10.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UL","E07000075","Rochford CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UL","E07000075","Rochford CD",F,10,5.03,2.28,9.58
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UL","E07000075","Rochford CD",P,10,4.42,2.27,7.75
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UN","E07000076","Tendring CD",M,10,3.38,1.42,6.71
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UN","E07000076","Tendring CD",F,15,3.38,1.83,5.69
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UN","E07000076","Tendring CD",P,20,3.31,2.07,5.01
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UQ","E07000077","Uttlesford CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UQ","E07000077","Uttlesford CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","22UQ","E07000077","Uttlesford CD",P,10,3.3,1.51,6.26
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UB","E07000078","Cheltenham CD",M,10,6.38,2.9,12.13
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UB","E07000078","Cheltenham CD",F,30,12.09,8.22,17.13
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UB","E07000078","Cheltenham CD",P,40,9.98,7.15,13.55
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UC","E07000079","Cotswold CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UC","E07000079","Cotswold CD",F,15,6.04,3.29,10.13
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UC","E07000079","Cotswold CD",P,20,5.74,3.5,8.88
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UD","E07000080","Forest of Dean CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UD","E07000080","Forest of Dean CD",F,15,7.08,3.74,12.14
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UD","E07000080","Forest of Dean CD",P,20,6.56,3.94,10.24
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UE","E07000081","Gloucester CD",M,15,11.51,6.17,19.48
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UE","E07000081","Gloucester CD",F,15,7.63,4.33,12.44
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UE","E07000081","Gloucester CD",P,30,9.18,6.18,13.12
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UF","E07000082","Stroud CD",M,15,13.7,7.43,22.93
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UF","E07000082","Stroud CD",F,20,8.59,5.31,13.14
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UF","E07000082","Stroud CD",P,35,9.85,6.88,13.67
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UG","E07000083","Tewkesbury CD",M,10,10,4.87,18.08
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UG","E07000083","Tewkesbury CD",F,15,7.88,4.39,13.03
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","23UG","E07000083","Tewkesbury CD",P,25,8.55,5.58,12.53
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UB","E07000084","Basingstoke and Deane CD",M,10,6.13,2.74,11.73
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UB","E07000084","Basingstoke and Deane CD",F,20,7.79,4.76,12.04
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UB","E07000084","Basingstoke and Deane CD",P,30,7.08,4.74,10.17
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UC","E07000085","East Hampshire CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UC","E07000085","East Hampshire CD",F,10,4.21,2.16,7.38
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UC","E07000085","East Hampshire CD",P,15,3.45,1.93,5.69
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UD","E07000086","Eastleigh CD",M,10,5.5,2.31,10.93
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UD","E07000086","Eastleigh CD",F,10,3.87,1.75,7.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UD","E07000086","Eastleigh CD",P,15,4.46,2.59,7.15
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UE","E07000087","Fareham CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UE","E07000087","Fareham CD",F,15,5.45,2.97,9.17
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UE","E07000087","Fareham CD",P,15,3.96,2.3,6.36
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UF","E07000088","Gosport CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UF","E07000088","Gosport CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UF","E07000088","Gosport CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UG","E07000089","Hart CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UG","E07000089","Hart CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UG","E07000089","Hart CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UH","E07000090","Havant CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UH","E07000090","Havant CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UH","E07000090","Havant CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UJ","E07000091","New Forest CD",M,15,3.96,2.15,6.66
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UJ","E07000091","New Forest CD",F,40,6.62,4.66,9.1
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UJ","E07000091","New Forest CD",P,55,5.56,4.16,7.29
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UL","E07000092","Rushmoor CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UL","E07000092","Rushmoor CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UL","E07000092","Rushmoor CD",P,10,5.04,2.41,9.27
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UN","E07000093","Test Valley CD",M,10,8.44,4.27,14.89
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UN","E07000093","Test Valley CD",F,15,5.2,2.75,8.93
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UN","E07000093","Test Valley CD",P,25,6.28,4.06,9.28
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UP","E07000094","Winchester CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UP","E07000094","Winchester CD",F,15,4.58,2.4,7.88
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","24UP","E07000094","Winchester CD",P,20,4.54,2.77,7.03
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UB","E07000095","Broxbourne CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UB","E07000095","Broxbourne CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UB","E07000095","Broxbourne CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UC","E07000096","Dacorum CD",M,10,4.48,1.91,8.85
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UC","E07000096","Dacorum CD",F,10,3.04,1.38,5.77
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UC","E07000096","Dacorum CD",P,15,3.73,2.17,5.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UD","E07000242","East Hertfordshire CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UD","E07000242","East Hertfordshire CD",F,10,3.45,1.57,6.54
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UD","E07000242","East Hertfordshire CD",P,15,3.4,1.8,5.83
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UE","E07000098","Hertsmere CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UE","E07000098","Hertsmere CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UE","E07000098","Hertsmere CD",P,10,2.91,1.39,5.35
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UF","E07000099","North Hertfordshire CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UF","E07000099","North Hertfordshire CD",F,15,4.89,2.58,8.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UF","E07000099","North Hertfordshire CD",P,15,4.16,2.42,6.67
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UG","E07000240","St Albans CD",M,15,8.15,4.29,13.99
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UG","E07000240","St Albans CD",F,10,4.16,2.05,7.49
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UG","E07000240","St Albans CD",P,25,5.69,3.64,8.48
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UH","E07000243","Stevenage CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UH","E07000243","Stevenage CD",F,10,5.87,2.49,11.64
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UH","E07000243","Stevenage CD",P,15,6.63,3.59,11.16
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UJ","E07000102","Three Rivers CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UJ","E07000102","Three Rivers CD",F,10,4.37,1.83,8.7
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UJ","E07000102","Three Rivers CD",P,10,4.17,2.14,7.29
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UK","E07000103","Watford CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UK","E07000103","Watford CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UK","E07000103","Watford CD",P,10,4.93,2.34,9.1
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UL","E07000241","Welwyn Hatfield CD",M,10,6.98,2.97,13.82
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UL","E07000241","Welwyn Hatfield CD",F,10,3.9,1.77,7.41
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","26UL","E07000241","Welwyn Hatfield CD",P,15,4.92,2.85,7.9
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UB","E07000105","Ashford CD",M,10,6.97,3.14,13.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UB","E07000105","Ashford CD",F,10,4.53,2.14,8.38
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UB","E07000105","Ashford CD",P,20,5.31,3.19,8.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UC","E07000106","Canterbury CD",M,10,6.34,3.24,11.12
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UC","E07000106","Canterbury CD",F,20,5.16,3.03,8.19
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UC","E07000106","Canterbury CD",P,30,5.31,3.58,7.59
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UD","E07000107","Dartford CD",M,10,7.46,3.2,14.72
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UD","E07000107","Dartford CD",F,10,7.37,3.8,12.88
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UD","E07000107","Dartford CD",P,20,7.75,4.72,11.99
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UE","E07000108","Dover CD",M,10,5.81,2.59,11.15
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UE","E07000108","Dover CD",F,10,4.48,2.11,8.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UE","E07000108","Dover CD",P,20,5.12,3.08,8.01
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UG","E07000109","Gravesham CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UG","E07000109","Gravesham CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UG","E07000109","Gravesham CD",P,15,5.52,3,9.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UH","E07000110","Maidstone CD",M,10,6.41,3.08,11.67
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UH","E07000110","Maidstone CD",F,10,3.02,1.37,5.74
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UH","E07000110","Maidstone CD",P,20,4.43,2.7,6.85
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UK","E07000111","Sevenoaks CD",M,10,6.09,2.66,11.75
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UK","E07000111","Sevenoaks CD",F,10,3.33,1.52,6.32
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UK","E07000111","Sevenoaks CD",P,20,4.43,2.62,7.01
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UL","E07000112","Folkestone and Hythe CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UL","E07000112","Folkestone and Hythe CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UL","E07000112","Folkestone and Hythe CD",P,15,3,1.59,5.13
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UM","E07000113","Swale CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UM","E07000113","Swale CD",F,15,5.43,2.88,9.3
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UM","E07000113","Swale CD",P,15,4.16,2.31,6.89
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UN","E07000114","Thanet CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UN","E07000114","Thanet CD",F,20,5.75,3.5,8.88
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UN","E07000114","Thanet CD",P,25,5.23,3.44,7.62
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UP","E07000115","Tonbridge and Malling CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UP","E07000115","Tonbridge and Malling CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UP","E07000115","Tonbridge and Malling CD",P,15,3.55,1.88,6.08
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UQ","E07000116","Tunbridge Wells CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UQ","E07000116","Tunbridge Wells CD",F,15,6.97,4.02,11.22
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","29UQ","E07000116","Tunbridge Wells CD",P,25,5.83,3.69,8.76
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UD","E07000117","Burnley CD",M,10,9.31,3.75,18.77
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UD","E07000117","Burnley CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UD","E07000117","Burnley CD",P,15,6.29,3.51,10.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UE","E07000118","Chorley CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UE","E07000118","Chorley CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UE","E07000118","Chorley CD",P,10,3.44,1.64,6.33
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UF","E07000119","Fylde CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UF","E07000119","Fylde CD",F,15,5.81,3.07,9.97
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UF","E07000119","Fylde CD",P,20,5.8,3.53,8.97
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UG","E07000120","Hyndburn CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UG","E07000120","Hyndburn CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UG","E07000120","Hyndburn CD",P,10,5.41,2.68,9.69
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UH","E07000121","Lancaster CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UH","E07000121","Lancaster CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UH","E07000121","Lancaster CD",P,10,2.03,0.92,3.85
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UJ","E07000122","Pendle CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UJ","E07000122","Pendle CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UJ","E07000122","Pendle CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UK","E07000123","Preston CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UK","E07000123","Preston CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UK","E07000123","Preston CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UL","E07000124","Ribble Valley CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UL","E07000124","Ribble Valley CD",F,10,6.3,2.69,12.46
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UL","E07000124","Ribble Valley CD",P,10,3.79,1.63,7.48
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UM","E07000125","Rossendale CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UM","E07000125","Rossendale CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UM","E07000125","Rossendale CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UN","E07000126","South Ribble CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UN","E07000126","South Ribble CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UN","E07000126","South Ribble CD",P,10,2.69,1.22,5.11
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UP","E07000127","West Lancashire CD",M,15,10.29,5.26,17.92
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UP","E07000127","West Lancashire CD",F,10,4.15,1.89,7.89
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UP","E07000127","West Lancashire CD",P,20,6.28,3.92,9.53
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UQ","E07000128","Wyre CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UQ","E07000128","Wyre CD",F,10,3.41,1.62,6.29
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","30UQ","E07000128","Wyre CD",P,15,3.23,1.8,5.33
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UB","E07000129","Blaby CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UB","E07000129","Blaby CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UB","E07000129","Blaby CD",P,10,4.14,2.13,7.24
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UC","E07000130","Charnwood CD",M,10,5.05,2.24,9.7
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UC","E07000130","Charnwood CD",F,10,3.98,1.96,7.16
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UC","E07000130","Charnwood CD",P,20,4.16,2.53,6.43
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UD","E07000131","Harborough CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UD","E07000131","Harborough CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UD","E07000131","Harborough CD",P,10,4.12,2.13,7.21
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UE","E07000132","Hinckley and Bosworth CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UE","E07000132","Hinckley and Bosworth CD",F,15,6.04,3.21,10.34
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UE","E07000132","Hinckley and Bosworth CD",P,20,5.87,3.52,9.18
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UG","E07000133","Melton CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UG","E07000133","Melton CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UG","E07000133","Melton CD",P,10,6.4,3.06,11.78
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UH","E07000134","North West Leicestershire CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UH","E07000134","North West Leicestershire CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UH","E07000134","North West Leicestershire CD",P,15,4.71,2.51,8.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UJ","E07000135","Oadby and Wigston CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UJ","E07000135","Oadby and Wigston CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","31UJ","E07000135","Oadby and Wigston CD",P,10,4.05,1.85,7.7
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UB","E07000136","Boston CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UB","E07000136","Boston CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UB","E07000136","Boston CD",P,10,4.72,2.25,8.71
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UC","E07000137","East Lindsey CD",M,10,3.87,1.69,7.46
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UC","E07000137","East Lindsey CD",F,20,6.51,4.02,9.96
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UC","E07000137","East Lindsey CD",P,30,5.25,3.53,7.51
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UD","E07000138","Lincoln CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UD","E07000138","Lincoln CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UD","E07000138","Lincoln CD",P,10,4.13,1.96,7.61
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UE","E07000139","North Kesteven CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UE","E07000139","North Kesteven CD",F,15,5.6,2.98,9.57
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UE","E07000139","North Kesteven CD",P,20,4.85,2.87,7.68
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UF","E07000140","South Holland CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UF","E07000140","South Holland CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UF","E07000140","South Holland CD",P,15,4.03,2.19,6.77
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UG","E07000141","South Kesteven CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UG","E07000141","South Kesteven CD",F,10,3.52,1.75,6.29
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UG","E07000141","South Kesteven CD",P,15,3.43,1.96,5.57
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UH","E07000142","West Lindsey CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UH","E07000142","West Lindsey CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","32UH","E07000142","West Lindsey CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UB","E07000143","Breckland CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UB","E07000143","Breckland CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UB","E07000143","Breckland CD",P,10,1.96,0.94,3.6
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UC","E07000144","Broadland CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UC","E07000144","Broadland CD",F,10,3.13,1.48,5.78
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UC","E07000144","Broadland CD",P,15,2.98,1.66,4.92
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UD","E07000145","Great Yarmouth CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UD","E07000145","Great Yarmouth CD",F,10,3.68,1.68,6.99
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UD","E07000145","Great Yarmouth CD",P,10,3.43,1.77,6
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UE","E07000146","King's Lynn and West Norfolk CD",M,10,3.57,1.5,7.1
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UE","E07000146","King's Lynn and West Norfolk CD",F,10,2.85,1.36,5.26
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UE","E07000146","King's Lynn and West Norfolk CD",P,20,3.15,1.86,4.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UF","E07000147","North Norfolk CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UF","E07000147","North Norfolk CD",F,15,5.2,2.99,8.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UF","E07000147","North Norfolk CD",P,25,4.33,2.74,6.51
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UG","E07000148","Norwich CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UG","E07000148","Norwich CD",F,10,4.15,1.97,7.65
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UG","E07000148","Norwich CD",P,10,2.85,1.42,5.11
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UH","E07000149","South Norfolk CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UH","E07000149","South Norfolk CD",F,10,3.32,1.59,6.11
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","33UH","E07000149","South Norfolk CD",P,15,3.25,1.81,5.37
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UB","E07000150","Corby CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UB","E07000150","Corby CD",F,10,12.59,5.99,23.21
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UB","E07000150","Corby CD",P,15,12.12,6.68,20.15
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UC","E07000151","Daventry CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UC","E07000151","Daventry CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UC","E07000151","Daventry CD",P,15,6.07,3.22,10.4
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UD","E07000152","East Northamptonshire CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UD","E07000152","East Northamptonshire CD",F,15,7.89,4.3,13.25
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UD","E07000152","East Northamptonshire CD",P,20,7.62,4.65,11.77
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UE","E07000153","Kettering CD",M,10,8.94,4.02,17.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UE","E07000153","Kettering CD",F,10,4.06,1.74,8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UE","E07000153","Kettering CD",P,15,6.28,3.65,10.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UF","E07000154","Northampton CD",M,10,4.88,2.18,9.33
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UF","E07000154","Northampton CD",F,15,5.29,3,8.63
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UF","E07000154","Northampton CD",P,25,5.08,3.28,7.51
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UG","E07000155","South Northamptonshire CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UG","E07000155","South Northamptonshire CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UG","E07000155","South Northamptonshire CD",P,15,5.52,3.01,9.27
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UH","E07000156","Wellingborough CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UH","E07000156","Wellingborough CD",F,10,5.98,2.57,11.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","34UH","E07000156","Wellingborough CD",P,15,6.02,3.2,10.31
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UB","E07000163","Craven CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UB","E07000163","Craven CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UB","E07000163","Craven CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UC","E07000164","Hambleton CD",M,10,6.21,2.54,12.45
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UC","E07000164","Hambleton CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UC","E07000164","Hambleton CD",P,15,4.53,2.52,7.5
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UD","E07000165","Harrogate CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UD","E07000165","Harrogate CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UD","E07000165","Harrogate CD",P,10,2.02,1.04,3.54
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UE","E07000166","Richmondshire CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UE","E07000166","Richmondshire CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UE","E07000166","Richmondshire CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UF","E07000167","Ryedale CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UF","E07000167","Ryedale CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UF","E07000167","Ryedale CD",P,10,5.86,3.01,10.25
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UG","E07000168","Scarborough CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UG","E07000168","Scarborough CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UG","E07000168","Scarborough CD",P,15,2.99,1.58,5.12
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UH","E07000169","Selby CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UH","E07000169","Selby CD",F,10,5.87,2.67,11.14
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","36UH","E07000169","Selby CD",P,15,5.67,3.09,9.54
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UB","E07000170","Ashfield CD",M,10,10.83,5.2,19.69
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UB","E07000170","Ashfield CD",F,10,5.66,2.82,10.14
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UB","E07000170","Ashfield CD",P,20,7.25,4.52,11
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UC","E07000171","Bassetlaw CD",M,10,7.34,2.99,14.76
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UC","E07000171","Bassetlaw CD",F,10,5.01,2.49,8.96
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UC","E07000171","Bassetlaw CD",P,20,5.71,3.42,8.95
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UD","E07000172","Broxtowe CD",M,10,5.74,2.42,11.4
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UD","E07000172","Broxtowe CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UD","E07000172","Broxtowe CD",P,15,4.27,2.38,7.05
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UE","E07000173","Gedling CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UE","E07000173","Gedling CD",F,10,5.37,2.66,9.64
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UE","E07000173","Gedling CD",P,15,4.37,2.43,7.23
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UF","E07000174","Mansfield CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UF","E07000174","Mansfield CD",F,10,5.9,2.93,10.57
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UF","E07000174","Mansfield CD",P,20,6.16,3.63,9.75
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UG","E07000175","Newark and Sherwood CD",M,10,8.65,4.2,15.64
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UG","E07000175","Newark and Sherwood CD",F,10,5.24,2.7,9.17
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UG","E07000175","Newark and Sherwood CD",P,25,6.3,3.99,9.46
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UJ","E07000176","Rushcliffe CD",M,10,5.48,2.33,10.85
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UJ","E07000176","Rushcliffe CD",F,10,3.06,1.32,6.03
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","37UJ","E07000176","Rushcliffe CD",P,15,3.99,2.28,6.49
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UB","E07000177","Cherwell CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UB","E07000177","Cherwell CD",F,10,4.21,2,7.76
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UB","E07000177","Cherwell CD",P,15,4.5,2.61,7.22
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UC","E07000178","Oxford CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UC","E07000178","Oxford CD",F,10,5.01,2.22,9.62
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UC","E07000178","Oxford CD",P,10,3.92,2.01,6.88
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UD","E07000179","South Oxfordshire CD",M,15,7.05,3.71,12.12
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UD","E07000179","South Oxfordshire CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UD","E07000179","South Oxfordshire CD",P,20,3.95,2.34,6.25
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UE","E07000180","Vale of White Horse CD",M,10,6.59,3.25,11.85
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UE","E07000180","Vale of White Horse CD",F,10,3.13,1.32,6.2
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UE","E07000180","Vale of White Horse CD",P,20,4.6,2.76,7.2
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UF","E07000181","West Oxfordshire CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UF","E07000181","West Oxfordshire CD",F,10,4.17,1.99,7.67
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","38UF","E07000181","West Oxfordshire CD",P,15,3.96,2.21,6.53
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UB","E07000187","Mendip CD",M,10,7.52,3.68,13.56
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UB","E07000187","Mendip CD",F,10,3.26,1.37,6.47
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UB","E07000187","Mendip CD",P,20,4.78,2.87,7.47
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UC","E07000188","Sedgemoor CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UC","E07000188","Sedgemoor CD",F,10,4.07,1.91,7.53
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UC","E07000188","Sedgemoor CD",P,15,3.56,1.99,5.88
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UD","E07000189","South Somerset CD",M,15,5.75,3.09,9.72
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UD","E07000189","South Somerset CD",F,15,3.89,2.21,6.33
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UD","E07000189","South Somerset CD",P,30,4.51,3.04,6.44
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UE","E07000190","Taunton Deane CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UE","E07000190","Taunton Deane CD",F,15,4.12,2.19,7.06
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UE","E07000190","Taunton Deane CD",P,20,4.18,2.55,6.46
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UF","E07000191","West Somerset CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UF","E07000191","West Somerset CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","40UF","E07000191","West Somerset CD",P,10,4.64,2.12,8.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UB","E07000192","Cannock Chase CD",M,10,9.87,4.32,19.05
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UB","E07000192","Cannock Chase CD",F,15,10.57,6.14,16.93
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UB","E07000192","Cannock Chase CD",P,25,10.15,6.61,14.9
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UC","E07000193","East Staffordshire CD",M,15,10.17,5.26,17.63
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UC","E07000193","East Staffordshire CD",F,15,8.58,4.98,13.76
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UC","E07000193","East Staffordshire CD",P,30,9.27,6.24,13.27
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UD","E07000194","Lichfield CD",M,10,8.47,3.9,15.82
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UD","E07000194","Lichfield CD",F,15,7.88,4.5,12.81
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UD","E07000194","Lichfield CD",P,25,7.99,5.21,11.72
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UE","E07000195","Newcastle-under-Lyme CD",M,15,10.62,5.67,18.02
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UE","E07000195","Newcastle-under-Lyme CD",F,15,5.47,2.9,9.39
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UE","E07000195","Newcastle-under-Lyme CD",P,25,7.05,4.64,10.28
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UF","E07000196","South Staffordshire CD",M,15,11.35,6.18,18.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UF","E07000196","South Staffordshire CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UF","E07000196","South Staffordshire CD",P,20,5.72,3.58,8.67
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UG","E07000197","Stafford CD",M,10,5.52,2.44,10.62
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UG","E07000197","Stafford CD",F,15,6.21,3.54,10.09
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UG","E07000197","Stafford CD",P,25,5.74,3.71,8.48
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UH","E07000198","Staffordshire Moorlands CD",M,10,7.34,3.22,14.14
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UH","E07000198","Staffordshire Moorlands CD",F,20,8.77,5.18,13.87
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UH","E07000198","Staffordshire Moorlands CD",P,25,8.21,5.4,11.97
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UK","E07000199","Tamworth CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UK","E07000199","Tamworth CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","41UK","E07000199","Tamworth CD",P,10,6.12,3.03,10.97
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UB","E07000200","Babergh CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UB","E07000200","Babergh CD",F,10,5.07,2.62,8.87
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UB","E07000200","Babergh CD",P,15,4.3,2.45,6.98
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UC","E07000201","Forest Heath CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UC","E07000201","Forest Heath CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UC","E07000201","Forest Heath CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UD","E07000202","Ipswich CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UD","E07000202","Ipswich CD",F,15,5.96,3.24,10.03
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UD","E07000202","Ipswich CD",P,15,4.37,2.54,7.01
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UE","E07000203","Mid Suffolk CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UE","E07000203","Mid Suffolk CD",F,10,5.68,2.92,9.95
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UE","E07000203","Mid Suffolk CD",P,15,4.45,2.49,7.35
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UF","E07000204","St Edmundsbury CD",M,10,6.33,2.71,12.51
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UF","E07000204","St Edmundsbury CD",F,15,5.9,3.28,9.77
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UF","E07000204","St Edmundsbury CD",P,25,5.71,3.61,8.56
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UG","E07000205","Suffolk Coastal CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UG","E07000205","Suffolk Coastal CD",F,10,2.51,1.12,4.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UG","E07000205","Suffolk Coastal CD",P,15,2.91,1.66,4.74
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UH","E07000206","Waveney CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UH","E07000206","Waveney CD",F,15,4.01,2.13,6.86
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","42UH","E07000206","Waveney CD",P,20,3.7,2.22,5.78
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UB","E07000207","Elmbridge CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UB","E07000207","Elmbridge CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UB","E07000207","Elmbridge CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UC","E07000208","Epsom and Ewell CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UC","E07000208","Epsom and Ewell CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UC","E07000208","Epsom and Ewell CD",P,10,4.02,1.82,7.65
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UD","E07000209","Guildford CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UD","E07000209","Guildford CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UD","E07000209","Guildford CD",P,10,2.64,1.31,4.73
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UE","E07000210","Mole Valley CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UE","E07000210","Mole Valley CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UE","E07000210","Mole Valley CD",P,10,3.1,1.55,5.56
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UF","E07000211","Reigate and Banstead CD",M,10,5.43,2.46,10.33
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UF","E07000211","Reigate and Banstead CD",F,10,3.41,1.55,6.4
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UF","E07000211","Reigate and Banstead CD",P,20,4.11,2.45,6.44
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UG","E07000212","Runnymede CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UG","E07000212","Runnymede CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UG","E07000212","Runnymede CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UH","E07000213","Spelthorne CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UH","E07000213","Spelthorne CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UH","E07000213","Spelthorne CD",P,10,3.37,1.61,6.21
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UJ","E07000214","Surrey Heath CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UJ","E07000214","Surrey Heath CD",F,10,6.18,2.92,11.44
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UJ","E07000214","Surrey Heath CD",P,15,4.78,2.53,8.19
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UK","E07000215","Tandridge CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UK","E07000215","Tandridge CD",F,10,4.03,1.73,7.97
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UK","E07000215","Tandridge CD",P,10,3.18,1.52,5.85
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UL","E07000216","Waverley CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UL","E07000216","Waverley CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UL","E07000216","Waverley CD",P,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UM","E07000217","Woking CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UM","E07000217","Woking CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","43UM","E07000217","Woking CD",P,10,3.06,1.38,5.82
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UB","E07000218","North Warwickshire CD",M,15,20.26,10.5,35.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UB","E07000218","North Warwickshire CD",F,15,10.52,5.57,18.03
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UB","E07000218","North Warwickshire CD",P,25,13.41,8.75,19.66
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UC","E07000219","Nuneaton and Bedworth CD",M,10,7.41,3.17,14.43
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UC","E07000219","Nuneaton and Bedworth CD",F,20,9.19,5.52,14.36
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UC","E07000219","Nuneaton and Bedworth CD",P,30,8.91,5.89,12.92
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UD","E07000220","Rugby CD",M,10,9.07,4.45,16.35
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UD","E07000220","Rugby CD",F,10,5.63,2.9,9.86
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UD","E07000220","Rugby CD",P,25,7.22,4.57,10.84
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UE","E07000221","Stratford-on-Avon CD",M,15,9.2,5.16,15.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UE","E07000221","Stratford-on-Avon CD",F,15,4.77,2.65,7.89
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UE","E07000221","Stratford-on-Avon CD",P,30,6.14,4.17,8.72
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UF","E07000222","Warwick CD",M,10,7.27,3.58,13.09
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UF","E07000222","Warwick CD",F,10,4.47,2.18,8.07
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","44UF","E07000222","Warwick CD",P,20,5.11,3.19,7.74
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UB","E07000223","Adur CD",M,10,9.15,3.9,18.09
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UB","E07000223","Adur CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UB","E07000223","Adur CD",P,10,5.14,2.64,8.99
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UC","E07000224","Arun CD",M,15,6.28,3.63,10.1
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UC","E07000224","Arun CD",F,30,5.58,3.68,8.11
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UC","E07000224","Arun CD",P,45,5.85,4.26,7.85
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UD","E07000225","Chichester CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UD","E07000225","Chichester CD",F,15,4.86,2.81,7.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UD","E07000225","Chichester CD",P,25,4.47,2.84,6.67
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UE","E07000226","Crawley CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UE","E07000226","Crawley CD",F,15,8.43,4.37,14.6
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UE","E07000226","Crawley CD",P,15,5.57,3,9.41
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UF","E07000227","Horsham CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UF","E07000227","Horsham CD",F,15,4.97,2.75,8.24
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UF","E07000227","Horsham CD",P,20,4.28,2.64,6.55
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UG","E07000228","Mid Sussex CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UG","E07000228","Mid Sussex CD",F,15,4.72,2.69,7.68
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UG","E07000228","Mid Sussex CD",P,25,4.65,2.93,7
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UH","E07000229","Worthing CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UH","E07000229","Worthing CD",F,15,5.14,2.96,8.27
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","45UH","E07000229","Worthing CD",P,20,4.02,2.45,6.21
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UB","E07000234","Bromsgrove CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UB","E07000234","Bromsgrove CD",F,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UB","E07000234","Bromsgrove CD",P,15,3.78,2.06,6.36
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UC","E07000235","Malvern Hills CD",M,10,8.28,3.75,15.78
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UC","E07000235","Malvern Hills CD",F,15,6.78,3.65,11.45
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UC","E07000235","Malvern Hills CD",P,25,6.66,4.22,10.01
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UD","E07000236","Redditch CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UD","E07000236","Redditch CD",F,15,10.1,5.34,17.32
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UD","E07000236","Redditch CD",P,15,8.88,5.15,14.24
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UE","E07000237","Worcester CD",M,5,,,
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UE","E07000237","Worcester CD",F,10,4.45,1.9,8.8
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UE","E07000237","Worcester CD",P,15,5.66,3.16,9.35
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UF","E07000238","Wychavon CD",M,10,6.78,3.15,12.62
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UF","E07000238","Wychavon CD",F,15,4.2,2.23,7.19
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UF","E07000238","Wychavon CD",P,25,5.01,3.17,7.51
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UG","E07000239","Wyre Forest CD",M,15,9.86,5.23,16.78
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UG","E07000239","Wyre Forest CD",F,20,10.56,6.59,16.02
+2017,32B_025DR00++,"LOCAL AUTHORITIES (boundaries as of April 2009)","47UG","E07000239","Wyre Forest CD",P,35,10.48,7.33,14.52
+2017,32B_025DR00++,"LONDON AUTHORITIES (boundaries as of April 2009)","Lon1","E13000001","Inner London",M,85,4.46,3.53,5.55
+2017,32B_025DR00++,"LONDON AUTHORITIES (boundaries as of April 2009)","Lon1","E13000001","Inner London",F,105,3.58,2.93,4.34
+2017,32B_025DR00++,"LONDON AUTHORITIES (boundaries as of April 2009)","Lon1","E13000001","Inner London",P,190,3.93,3.39,4.54
+2017,32B_025DR00++,"LONDON AUTHORITIES (boundaries as of April 2009)","Lon2","E13000002","Outer London",M,125,2.9,2.4,3.46
+2017,32B_025DR00++,"LONDON AUTHORITIES (boundaries as of April 2009)","Lon2","E13000002","Outer London",F,180,2.46,2.11,2.85
+2017,32B_025DR00++,"LONDON AUTHORITIES (boundaries as of April 2009)","Lon2","E13000002","Outer London",P,305,2.63,2.34,2.94
